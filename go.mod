@@ -1,4 +1,4 @@
-module StreakAI
+module github.com/vipul-rawat/FindPairAPI
 
 go 1.22
 
